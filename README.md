@@ -29,8 +29,7 @@ El proyecto se desarrolla en un notebook de Google Colab, estructurado para guia
 
 1.  **Clonar el Repositorio**:
     ```bash
-    git clone [https://github.com/TuUsuario/NombreDeTuRepositorio.git](https://github.com/TuUsuario/NombreDeTuRepositorio.git)
-    cd NombreDeTuRepositorio
+    git clone https://github.com/RamiroCabri1/Telecom_X/blob/main/telecom_X.ipynb
     ```
 2.  **Abrir en Google Colab**:
     * Sube el archivo `.ipynb` a tu Google Drive.
